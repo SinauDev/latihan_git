@@ -1,7 +1,10 @@
 #! /bin/python
 
+# fungsi hitung
 def hitung (a, b) :
     return a + b
 
 hasil = hitung (1, 2)
 print( hasil )
+
+print("terima kasih sudah menggunakan aplikasi ini")
